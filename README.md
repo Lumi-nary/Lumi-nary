@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E34F26,50:8B5CF6,100:239120&height=200&text=Hi%2C%20I'm%20Lumi!&fontSize=45" alt="header" />
+<p align="center"><img src="assets/lumi_header.png" alt="Lumi-nary" width="520" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Systems+thinker%3A+architect+first%2C+code+second;I+design+the+system%2C+AI+handles+the+heavy+lifting;Design+%E2%86%92+Build+%E2%86%92+Review+%E2%86%92+QA;C%23+%2F+Unity+developer" alt="Typing SVG" />
 
